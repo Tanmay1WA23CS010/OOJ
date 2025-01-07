@@ -1,0 +1,67 @@
+Enter the number of students: 2
+
+Enter details for student 1:
+USN: 1BM23CS056
+Name: Ayaan Shrestha
+Semester: 3
+Enter internal marks for 5 courses:
+18 20 17 19 16
+Enter SEE marks for 5 courses:
+60 58 62 55 59
+
+Enter details for student 2:
+USN: 1BM23CS058
+Name: Ayush Ranjan
+Semester: 3
+Enter internal marks for 5 courses:
+15 18 20 17 19
+Enter SEE marks for 5 courses:
+63 60 58 62 64
+
+Final Marks of Students:
+
+USN: 1BM23CS056
+Name: Ayaan Shrestha
+Semester: 3
+Internal Marks:
+Course 1: 18
+Course 2: 20
+Course 3: 17
+Course 4: 19
+Course 5: 16
+SEE Marks:
+Course 1: 60
+Course 2: 58
+Course 3: 62
+Course 4: 55
+Course 5: 59
+Final Marks:
+Course 1: 78
+Course 2: 78
+Course 3: 79
+Course 4: 74
+Course 5: 75
+-------------------------
+
+USN: 1BM23CS058
+Name: Ayush Ranjan
+Semester: 3
+Internal Marks:
+Course 1: 15
+Course 2: 18
+Course 3: 20
+Course 4: 17
+Course 5: 19
+SEE Marks:
+Course 1: 63
+Course 2: 60
+Course 3: 58
+Course 4: 62
+Course 5: 64
+Final Marks:
+Course 1: 78
+Course 2: 78
+Course 3: 78
+Course 4: 79
+Course 5: 83
+-------------------------
